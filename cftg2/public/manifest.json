@@ -1,0 +1,13 @@
+{
+    "short_name": "HTMM",
+    "name": "Hotspot Traffic Mobile Management",
+    "icons": [{
+        "src": "/images/logoo.png",
+        "sizes": "192x192",
+        "type": "image/png"
+    }],
+    "start_url": "./index.html",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+}
